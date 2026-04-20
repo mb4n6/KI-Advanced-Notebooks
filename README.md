@@ -1,2 +1,2 @@
-# KI-Advanced-Notebooks
+# AI-Advanced-Notebooks
 AI Advanced: Jupyter Notebooks
